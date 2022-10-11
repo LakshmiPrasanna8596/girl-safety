@@ -5,6 +5,6 @@ This is a series of my articles deadling with various aspects of exposing your p
 1. ***Always clear your browser history, esp. any cache and cookies***
 2. Your social media apps or messenger apps can be decieving with their looks. Don't trust their cute faces.
    - Like: the deleted messages from whatsapp are actually not deleted, they are still hiding behind the app's UI in your backups.
-4. If you have a doubt your apps are hacked, uninstall, delete backups (both local and cloud), install again.
-5. There is nothing to lose in history when your present is at stake.
-6. Be extra vigilant.
+3. If you have a doubt your apps are hacked, uninstall, delete backups (both local and cloud), install again.
+4. There is nothing to lose in history when your present is at stake.
+5. Be extra vigilant.
